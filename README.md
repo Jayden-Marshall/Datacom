@@ -10,11 +10,6 @@ My internship at Datacom as a cybersecurity consultant intern was an incredible 
 
 - **Specific areas of cybersecurity that sparked my interest:** The internship really got me interested in penetration testing. Learning how ethical hackers find and exploit vulnerabilities was mind-blowing. It showed me just how important proactive security measures are.
 
-
-<h3> <a href="https://medium.com/@marshall.jaydenb/datacom-virtual-internship-program-forage-8df2479959fe"</a>Link to blog post </h3>
-
-<h3> <a href="https://github.com/Jayden-Marshall/Mastercard/files/14830371/DATACOM.IN.RiskAssessment.xlsx"</a>Risk Assessment Download File </h3>
-
 <b> **Skills Gained:** 
 - ANALYTICAL SKILLS
 - COMMUNICATION
@@ -25,5 +20,10 @@ My internship at Datacom as a cybersecurity consultant intern was an incredible 
 - SECURITY
 SECURITY ANALYSIS
 
-**Certification of Completeion:**
+
+<h3> <a href="https://medium.com/@marshall.jaydenb/datacom-virtual-internship-program-forage-8df2479959fe"</a>Link to blog post </h3>
+
+<h3> <a href="https://github.com/Jayden-Marshall/Mastercard/files/14830371/DATACOM.IN.RiskAssessment.xlsx"</a>Risk Assessment Download File </h3>
+
+**Certification of Completion:**
 <img src="https://github.com/Jayden-Marshall/Mastercard/assets/145166234/6a38ac03-fa17-4834-ba5b-c9e80346230e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
