@@ -18,7 +18,7 @@ My internship at Datacom as a cybersecurity consultant intern was an incredible 
 - RISK ASSESSMENT
 - RISK MANAGEMENT
 - SECURITY
-SECURITY ANALYSIS
+- SECURITY ANALYSIS
 
 
 <h3> <a href="https://medium.com/@marshall.jaydenb/datacom-virtual-internship-program-forage-8df2479959fe"</a>Link to blog post </h3>
