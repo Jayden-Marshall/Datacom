@@ -25,7 +25,7 @@ My internship at Datacom as a cybersecurity consultant intern was an incredible 
 
 <h3> <a href="https://github.com/Jayden-Marshall/Mastercard/files/14830371/DATACOM.IN.RiskAssessment.xlsx"</a>Risk Assessment Download File </h3>
 
-“Students engage in tasks that mirror the everyday duties at top companies,offering a true reflection of the job market and helping students acquire skills that align with their career goals.” - Yale Office of Career Strategy
+“students do work that reflects real day-to-day tasks at leading companies," which provides a realistic view of the job market and helps students gain skills relevant to their career ambitions.” - Yale Office of Career Strategy
 
 **Certification of Completion:**
 <img src="https://github.com/Jayden-Marshall/Mastercard/assets/145166234/6a38ac03-fa17-4834-ba5b-c9e80346230e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
